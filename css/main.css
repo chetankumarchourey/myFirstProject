@@ -1,0 +1,14 @@
+body {
+	width:100%;
+}
+
+header{
+	text-align:center;
+    font-size: 22px;
+}
+ 
+ #info{
+	 text-align:center;
+	 color:green;
+	 font-size: 22px;
+ }
